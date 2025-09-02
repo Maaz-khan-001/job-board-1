@@ -5,6 +5,10 @@ connect both frontend and backend with each other.
 make sure everything is working properly. data is stored and rendering from
 database.
 
+Also wirte in readme.md, that what did you?
+how did you connect it?
+
+
 A full-stack Job Application Tracking System built with Django REST Framework backend and React frontend.
 
 ## Project Structure
